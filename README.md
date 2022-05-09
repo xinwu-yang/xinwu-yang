@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **go**
 
-- 📝 I regularly write articles on [blogs](https://mrseawave.github.io/blogs/)
+- 📝 I regularly write articles on [blogs](https://github.com/xinwu-yang)
 
 - 📫 How to reach me:**xinwuy@qq.com**
 
