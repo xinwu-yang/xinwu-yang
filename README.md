@@ -9,4 +9,4 @@
 
 - 📫 How to reach me:**xinwuy@qq.com**
 
-- ⚡ Fun fact: I ❤️ 🎮 🎥 💤 📺
+- ⚡ Fun fact: I ❤️ 🎮 💤 📺 🎱
