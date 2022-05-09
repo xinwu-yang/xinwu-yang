@@ -3,10 +3,10 @@
 
 <img align="right" alt="GIF" src="work.gif" width="300"/>
 
-- 🌱 I’m currently learning **go**
+- 🌱 I’m currently learning **Go** **日本語**
 
 - 📝 I regularly write articles on [blogs](https://github.com/xinwu-yang)
 
 - 📫 How to reach me:**xinwuy@qq.com**
 
-- ⚡ Fun fact: I :heart: :video_game: :movie_camera: :zzz:
+- ⚡ Fun fact: I ❤️ 🎮 🎥 💤 📺
