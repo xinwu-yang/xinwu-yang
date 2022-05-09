@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Go** **日本語**
 
-- 📝 I regularly write articles on [blogs](https://github.com/xinwu-yang)
+- 📝 I regularly write articles on [Blogs](https://github.com/xinwu-yang)
 
 - 📫 How to reach me:**xinwuy@qq.com**
 
