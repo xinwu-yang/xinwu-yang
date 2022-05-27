@@ -6,8 +6,7 @@
 <table style="margin-left: auto; margin-right: auto;border: none;">
     <tr>
         <td>
-            <!--左侧内容-->
-            - 🌱 I’m currently learning **Go** **日本語**
+- 🌱 I’m currently learning **Go** **日本語**
 
 - 📝 I regularly write articles on [Blogs](https://github.com/xinwu-yang)
 
@@ -16,7 +15,6 @@
 - ⚡ Fun fact: I ❤️ 🎮 💤 📺 🎱
         </td>
         <td>
-            <!--右侧内容-->
             <img align="right" alt="GIF" src="work.gif" width="300"/>
         </td>
     </tr>
