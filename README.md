@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm xinwu-yang</h1>
-<h3 align="center">A java developer based in China.</h3>
+<h3 align="center">A Java developer based in China.</h3>
 
 - 🌱 I’m currently learning **Go** **日本語**
 
@@ -8,8 +8,6 @@
 - 📫 How to reach me:**xinwuy@qq.com**
 
 - ⚡ Fun fact: I ❤️ 🎮 💤 📺 🎱
-
-<img align="right" alt="GIF" src="work.gif" width="500"/>
 
 ### 📊 Github Stats
 
