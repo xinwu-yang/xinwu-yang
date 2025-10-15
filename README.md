@@ -24,8 +24,8 @@
 
 <div align="left">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=xinwu-yang&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinwu-yang&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=xinwu-yang&show_icons=true&theme=ambient_gradient&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinwu-yang&layout=compact&theme=ambient_gradient)
 
 </div>
 
@@ -56,13 +56,13 @@ I like exploring the physics behind movement & muscle coordination.
 
 ### 💬 Daily Quote / Greeting
 
-![quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true)
 
 ---
 
 ### 👁️ Visitors & Activity
 
-![visitors](https://komarev.com/ghpvc/?username=xinwu-yang&color=blueviolet&style=for-the-badge)  
-![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xinwu-yang&theme=react-dark)
+![visitors](https://komarev.com/ghpvc/?username=xinwu-yang&color=brightgreen&style=for-the-badge)  
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xinwu-yang&theme=github-compact)
 
 ---
