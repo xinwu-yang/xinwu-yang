@@ -46,17 +46,17 @@ I like exploring the physics behind movement & muscle coordination.
 
 ### 🏗️ Featured Projects
 
-- 🔹 [**yoyax**](https://github.com/xinwu-yang/yoyax)
+- 🔹 [**YOYAX**](https://github.com/xinwu-yang/yoyax)
   YOYAX is the ultimate platform for amateur sports enthusiasts who love to play, meet new people, and stay active — whether you're into badminton, table tennis, basketball, or football.
 
-- 🔹 [**nippon**](https://github.com/xinwu-yang/nippon)
+- 🔹 [**Nippon**](https://github.com/xinwu-yang/nippon)
   日语N5-N2语法笔记~ 🍻
 
 ---
 
 ### 💬 Daily Quote / Greeting
 
-![quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true)
+![quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
 
