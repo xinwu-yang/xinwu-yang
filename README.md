@@ -40,8 +40,6 @@ I like exploring the physics behind movement & muscle coordination.
 📖 **Japanese Learner (N1 target)** —  
 毎日少しずつ成長する。「継続は力なり。」💪  
 
-🎵 Enjoy lo-fi beats while coding and classical music while stretching.
-
 ---
 
 ### 🏗️ Featured Projects
