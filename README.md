@@ -20,17 +20,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="left">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=xinwu-yang&show_icons=true&theme=ambient_gradient&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinwu-yang&layout=compact&theme=ambient_gradient)
-
-</div>
-
----
-
 ### 🏸 Off the Court
 
 🏋️‍♂️ **Badminton Player (Level 3 | 3 years)** —  
