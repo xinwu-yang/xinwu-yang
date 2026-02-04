@@ -1,3 +1,5 @@
+![](./work.gif)
+
 # 👋 Hi, I'm Yang Xinwu (杨欣武) 
 
 🌱 Passionate about **Java | Spring Boot | Vue | DevOps | Cloud**  
